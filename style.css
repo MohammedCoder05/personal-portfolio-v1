@@ -628,7 +628,11 @@ color: rgb(85, 30, 85);
         .contact-title{
             font-size: 50px;
         }
+        .rm{
+            display: none;
+        }
     }
+   
    
     @media (max-width:900px){
  .footer{
